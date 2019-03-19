@@ -4,4 +4,4 @@ pass:tomcat
 manager-gui
 manager-script
 
-localhost:8090/manager
+localhost:8090/
