@@ -1,7 +1,0 @@
-tomcat8
-user:tomcat
-pass:tomcat
-manager-gui
-manager-script
-
-localhost:8090/
